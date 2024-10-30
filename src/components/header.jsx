@@ -1,4 +1,5 @@
 import React from "react";
+import {getWhatsappText} from "../utils/whatsappCode";
 
 export const Header = (props) => {
   return (
@@ -14,11 +15,12 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
+                  href={getWhatsappText()}
                   className="btn btn-custom btn-lg page-scroll"
+                  target="_blank" rel="noopener noreferrer"
                 >
-                  Learn More
-                </a>{" "}
+                  Book here
+                </a>
               </div>
             </div>
           </div>

@@ -7,8 +7,7 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Our services are designed to bring fresh flavors and convenience to your table, offering everything from ready-to-eat meals to catering for special events. With a commitment to quality and customization, we make every dining experience memorable
           </p>
         </div>
         <div className="row">

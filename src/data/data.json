@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Homemade Cooking for you",
+    "paragraph": " Preparation and delivery of healthy meals to your home."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At our core, we combine innovative menu personalization technology with a dedicated team of culinary and logistics experts. With skilled staff and a commitment to fresh, organic ingredients, we deliver a high-quality dining experience tailored to your preferences.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Organic and fresh ingredients.",
+      "Technology for menu customization.",
+      "Kitchen and logistics equipment.",
+      "Trained personnel."
     ],
     "Why2": [
       "Aliquip ex ea commodo",
@@ -67,34 +67,19 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Organic And Fresh Ingredients.",
+      "text": "At the heart of our offerings is a commitment to quality, with ingredients that are always organic and freshly sourced. Every dish is crafted using produce and products that are carefully selected for their purity, flavor, and sustainability, ensuring a vibrant, healthy experience with every bite. We believe that quality ingredients are the foundation of great taste and well-being."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-clock-o",
+      "name": "Ready to eat meals, saving time and effort.",
+      "text": "Our ready-to-eat meals are designed to bring convenience and flavor to your table without the hassle. Crafted to save you time and effort, each meal is carefully prepared and packed with fresh ingredients, so you can enjoy a wholesome, delicious meal whenever you need it. Perfect for busy days, these meals are the ultimate solution for quick, nutritious dining."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-plus",
+      "name": "Additional services (catering, special events).",
+      "text": "Our additional services extend beyond daily dining, offering catering and special event options tailored to your needs. Whether you’re planning a corporate event, family gathering, or special celebration, our team is dedicated to providing exceptional food and service to make your event unforgettable. From customized menus to on-site support, we’re here to ensure every detail is perfect."
     }
   ],
   "Testimonials": [
